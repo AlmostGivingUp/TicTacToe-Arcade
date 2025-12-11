@@ -1,6 +1,6 @@
 # TicTacToe-Arcade
 A 2-player LED TicTacToe game built with NeoPixels, an LCD1602, and physical buttons.
-Fully implemented on Arduino. (simulated using TinkerCas)
+Fully implemented on Arduino. (simulated using TinkerCad)
 
 Features
 - Two-player real-time gameplay (Red vs Blue)
